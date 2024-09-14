@@ -1,4 +1,4 @@
-**Sales Data Visualization Project**
+### **Sales Data Visualization Project**
 
 In this project, I conducted a comprehensive exploratory data analysis (EDA) and created insightful visualizations to uncover key business insights from a large sales dataset. The project aimed to help stakeholders understand trends, customer behavior, and sales performance across various dimensions such as geography, product categories, and time.
 
