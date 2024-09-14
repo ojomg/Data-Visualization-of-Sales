@@ -36,4 +36,5 @@ The visualizations and insights derived from this project were instrumental in h
 - **Operational Efficiency:** Insights into low-performing products and regions helped optimize inventory levels and reduce operational costs.
 
 This project demonstrated the power of data visualization and business intelligence tools in transforming raw sales data into actionable insights.
-![image](https://github.com/user-attachments/assets/f5869741-7ac3-407f-822c-b76564e9a6ee)
+
+[image](https://github.com/user-attachments/assets/f5869741-7ac3-407f-822c-b76564e9a6ee)
